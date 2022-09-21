@@ -90,3 +90,22 @@ table,th,td{
 }
 
 ```
+--------------------------------------------------------------
+
+- STEP3 : Execute the code :
+      ng serve -o
+      
+- http://localhost:4200/
+
+![image](https://user-images.githubusercontent.com/26134506/191482284-e0c5278d-e92f-44a4-ae9b-9e9c1e50758d.png)
+
+
+- STEP4: After adding the taks:
+
+![image](https://user-images.githubusercontent.com/26134506/191482449-c6c1323b-2aa7-4189-a7ea-703c1298e732.png)
+
+- STEP5 : After deleting 2 task:
+![image](https://user-images.githubusercontent.com/26134506/191482570-06ed3f22-32de-4d46-b6d5-fa947d89d97c.png)
+
+
+
